@@ -84,4 +84,4 @@ See more details about [deployment](https://facebook.github.io/create-react-app/
 - [Troubleshooting Build Issues](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 ```
 
-This updated README includes clear steps for students to clone or fork the repo, navigate to the project folder, install dependencies, and run the project on their browser.# cra_setup
+This  README includes clear steps for Babcock University BU-CSC 209 students to clone or fork the repo, navigate to the project folder, install dependencies, and run the project on their browser.# cra_setup
