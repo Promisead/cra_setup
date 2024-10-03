@@ -1,6 +1,6 @@
 
 
-# BU-CSC 209 CRA_Startup
+# BU-CSC 209 CRA_setup
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -27,7 +27,7 @@ To get started with this project on your local machine, follow the steps below:
 After cloning or forking, move into the project directory:
 
 ```bash
-cd cra_startup
+cd cra_setup
 ```
 
 ### Step 3: Install Dependencies
